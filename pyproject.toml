@@ -1,7 +1,7 @@
 [project]
 name = "asteroids"
 version = "0.1.0"
-description = "Add your description here"
+description = "A boot.dev project. A simple Asteroids game written in Python with the goal of demonstrating object-oriented programming concepts."
 readme = "README.md"
 requires-python = ">=3.13"
 dependencies = [

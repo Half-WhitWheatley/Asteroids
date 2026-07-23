@@ -32,7 +32,7 @@ def main():
     score: int = 0
     while True:
         log_state()
-        font = pygame.font.Font(None, 36)
+        font = pygame.font.SysFont("majax_sansserif", 36)
         for event in pygame.event.get():
             if event.type == pygame.QUIT:
                 return
